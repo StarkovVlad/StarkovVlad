@@ -8,6 +8,16 @@
 <img src="https://github.com/user-attachments/assets/473175ef-bc31-482c-b3c3-6ad34f152425" width=200>
 <img src="https://github.com/user-attachments/assets/e3baff89-31e0-4aaa-b0f9-c7c761c722ce" width=200>
 
+<h2>Testnet</h2>
+
+1. artvaloper1lmlxm0dp55dnz2j9km9c2vtpg7aewf2rvrw63n
+2. airvaloper1c6f43ncqfdrj3yugulr4t3c36p80yhr043zj8q
+3. lava@valoper1kj6djexrqcm3l3l7sksvmltv573gaqarl2gscp
+
+<h2>Mainnet</h2>
+
+1. cosmosvaloper1tjwad66qx72xyr3ydcyascrgdyhee58y5x6zdc
+
 <h1 align=center>My Guides</h1>
 
 1. [0G Da Retriever — guide](https://medium.com/@stark.nodes/0g-da-retriever-guide-9d0854874fea) 👈 From Medium
