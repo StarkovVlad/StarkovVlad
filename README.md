@@ -22,7 +22,7 @@
 
 1. ✅ [0G Da Retriever — guide](https://medium.com/@stark.nodes/0g-da-retriever-guide-9d0854874fea) 👈 From Medium
 2. ✅ [0g_storage_node_guide](https://github.com/StarkovVlad/0g_storage_node_guide) 👈 From GitHub
-3. ⚠️ [0g_validator_node_guide](https://github.com/StarkovVlad/0g_validator_node_guide) 👈 From GitHub
+3. ✅ [0g_validator_node_guide](https://github.com/StarkovVlad/0g_validator_node_guide) 👈 From GitHub
 4. ✅ [Side Protocol validator node set up guide](https://medium.com/@stark.nodes/side-protocol-validator-node-set-up-guide-1f21d7cbe0c8) 👈 From Medium
 
 <h1 align=center>My Links</h1>
