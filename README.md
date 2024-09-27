@@ -23,4 +23,4 @@
 
 <h1 align=center>My Links</h1>
 
-[Twitter](https://x.com/Berend896) ✅ [Discord](https://discord.com/users/933934265211682846) ✅ [Medium](https://medium.com/@stark.nodes) 
+[Twitter](https://x.com/Berend896) ✅ [Medium](https://medium.com/@stark.nodes)
